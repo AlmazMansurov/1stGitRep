@@ -7,3 +7,8 @@ one cup
 two cups
 three cups
 four cups
+
+2048
+1024
+512
+256
