@@ -3,10 +3,10 @@
 3rd line
 4th line
 
-one cup
-two cups
-three cups
-four cups
+1 cup
+2 cups
+3 cups
+4 cups
 
 2048
 1024
